@@ -33,7 +33,7 @@ class Solution {
         return median;
     }
 }
-public class Example2 {
+public class Median {
     public static void main(String[] args) {
         int[] nums1 = {1,2};
         int[] nums2 = {3,4};
