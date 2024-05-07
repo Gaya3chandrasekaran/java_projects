@@ -23,7 +23,7 @@ This file has collection of java projects as apart of my learning coursework.
 6. sort an array in Java in descending & Ascending.
 7. find the factorial of an integer in Java
 8. Remove all duplicates in the given String
-9. Java program to check if the given number is a Od or Even number
+9. Java program to check if the given number is a Odd or Even number
 10. Reverse the Number
 11. count number of digit
 12. Check Armstrong or not
